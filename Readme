@@ -1,0 +1,4 @@
+structurepub computes the list of classes of pawn arrangements of a quadruplet.
+This program needs pionprendpion, pieceprendpion and pionprendpiece.
+
+pospieceaprespion computes an upper bound for the number of pieces arrangements depending on the number of pawns on the board
